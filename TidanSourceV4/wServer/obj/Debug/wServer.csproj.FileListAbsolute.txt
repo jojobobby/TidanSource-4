@@ -1,0 +1,206 @@
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan's Sourcefiles\Source\Cake's Domain 2.0\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\Addition.xml
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat0.xml
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat1.xml
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\EquipmentSets.xml
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\bannednames.txt
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\dark_fire.png
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\firey_floor.png
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\UnlockedAccounts.txt
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\log4net_wServer.config
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.cfg
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe.config
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.pdb
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.exe
+C:\Users\AdminUsername112233\Documents\GitHub\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.pdb
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\Addition.xml
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat0.xml
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat1.xml
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\EquipmentSets.xml
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\bannednames.txt
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\dark_fire.png
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\firey_floor.png
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\UnlockedAccounts.txt
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\log4net_wServer.config
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.cfg
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe.config
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.pdb
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csprojResolveAssemblyReference.cache
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.exe
+C:\Users\Jason Dong\Documents\_Tidan\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\New folder\Tidan Source\tidanv3-sourcefiles\Tidan Source\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSourceV4\wServer\obj\Debug\wServer.pdb
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\data\Addition.xml
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\data\dat0.xml
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\data\dat1.xml
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\data\EquipmentSets.xml
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\bannednames.txt
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\texture\dark_fire.png
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\texture\firey_floor.png
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\UnlockedAccounts.txt
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\log4net_wServer.config
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\wServer.cfg
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\wServer.exe.config
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\wServer.exe
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\bin\Debug\wServer.pdb
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\wServer\obj\Debug\wServer.csprojResolveAssemblyReference.cache
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\wServer\obj\Debug\wServer.exe
+C:\Users\Jason Dong\Documents\project-t\TidanSourceV4\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\project-t\TidanSourceV4\wServer\obj\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\data\Addition.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\data\dat0.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\data\dat1.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\data\EquipmentSets.xml
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\bannednames.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\texture\dark_fire.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\texture\firey_floor.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\UnlockedAccounts.txt
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\log4net_wServer.config
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\wServer.cfg
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\wServer.exe.config
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\bin\Debug\wServer.pdb
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\wServer\obj\Debug\wServer.exe
+C:\Users\raphe\OneDrive\Desktop\Tidan V4 Source\TidanSource-4\TidanSourceV4\wServer\obj\Debug\wServer.pdb

@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f796fa-477f-46c8-8931-c5455fc51c2b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="EmbeddedData_EquipCXML.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189200">
+              <caret line="7568" column="8" lean-forward="false" selection-start-line="7568" selection-start-column="7" selection-end-line="7568" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmbeddedData_LairOfShaitanCXML.dat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_LairOfShaitanCXML.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="522" column="37" lean-forward="false" selection-start-line="522" selection-start-column="29" selection-end-line="522" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EquipmentToolTip.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/tooltip/EquipmentToolTip.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3625">
+              <caret line="165" column="37" lean-forward="false" selection-start-line="165" selection-start-column="37" selection-end-line="165" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextKey.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/text/model/TextKey.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10800">
+              <caret line="432" column="86" lean-forward="false" selection-start-line="432" selection-start-column="86" selection-end-line="432" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FriendDataRequestTask.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/friends/service/FriendDataRequestTask.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameServerConnectionConcrete.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/messaging/impl/GameServerConnectionConcrete.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44600">
+              <caret line="1996" column="73" lean-forward="false" selection-start-line="1996" selection-start-column="73" selection-end-line="1996" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectLibrary.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/objects/ObjectLibrary.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4025">
+              <caret line="177" column="24" lean-forward="false" selection-start-line="177" selection-start-column="24" selection-end-line="177" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmbeddedData_EquipCXML.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssetLoader.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/util/AssetLoader.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2325">
+              <caret line="109" column="76" lean-forward="false" selection-start-line="109" selection-start-column="76" selection-end-line="109" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductionSetup.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/application/impl/ProductionSetup.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ActionScript Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>32</find>
+      <find>moon</find>
+      <find>loot</find>
+      <find>noble</find>
+      <find>LG</find>
+      <find>skin</find>
+      <find>Teleport</find>
+      <find>attack</find>
+      <find>def</find>
+      <find>&lt;teleport</find>
+      <find>crossbow</find>
+      <find>waki</find>
+      <find>&quot;Rage</find>
+      <find>Ring of atta</find>
+      <find>SlotType</find>
+      <find>md1 Loot Balloon Shaitan</find>
+      <find>feedPower</find>
+      <find>ring</find>
+      <find>EQUIP_TO_USE</find>
+      <find>treasure</find>
+      <find>restrictions</find>
+      <find>EquipmentItemRestrictions</find>
+      <find>Ghostly Withered Skull</find>
+      <find>//</find>
+      <find>Equip</find>
+      <find>addEquipmentItemRestrictions</find>
+      <find>ability</find>
+      <find>&lt;Object type=&quot;0x741b&quot; id=&quot;md1 Head of Shaitan&quot;&gt;</find>
+      <find>deca</find>
+      <find>magical</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_PlayersCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_SpriteWorldCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_AbyssOfDemonsCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_SnakePitCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EquipmentSetsCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_GroundCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EncountersCXML.dat" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/objects/ProjectileProperties.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/objects/Projectile.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/util/TierUtil.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/tooltip/TooltipHelper.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_ShattersCXML.dat" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/util/redrawers/GlowRedrawer.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/messaging/impl/GameServerConnectionConcrete.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/messaging/impl/data/StatData.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/components/PotionSlotMediator.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/components/PotionSlotView.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/screens/AccountLoadingScreen.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/UIUtils.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/objects/Container.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/util/ConditionEffect.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/util/TextureRedrawer.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/minimap/view/MiniMapImp.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/chat/view/ChatListItemFactory.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/objects/GameObject.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/objects/Player.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/panels/mediators/ItemGridMediator.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/StatMetersMediator.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/StatMetersView.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/UIConfig.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/account/AccountConfig.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/commands/EnterGameCommand.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/account/core/view/RegisterWebAccountDialog.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/dialogs/TOSPopup.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/account/transfer/view/TransferAccountView.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/account/web/view/WebRegisterDialog.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/HUDView.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/ButtonFactory.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/components/MenuOptionsBar.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/ui/view/TitleView.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/parameters/Parameters.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/options/Options.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/game/MapUserInput.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedAssets.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/util/AssetLoader.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/application/impl/ProductionSetup.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/objects/ObjectLibrary.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/text/model/TextKey.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/tooltip/EquipmentToolTip.as" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_LairOfShaitanCXML.dat" />
+        <option value="$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.dat" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="459" />
+    <option name="y" value="35" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="assembleegameclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kabam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kabam" type="462c0819:PsiDirectoryNode" />
+              <item name="rotmg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kabam" type="462c0819:PsiDirectoryNode" />
+              <item name="rotmg" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RotMG_Client_27.7.X2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tidan Client - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kabam" type="462c0819:PsiDirectoryNode" />
+              <item name="rotmg" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="pro&#9;FILE&#9;file://C:/Users/raphe/OneDrive/Desktop/Tidan V4 Source/project-t/Tidan Client - Copy/src/kabam/rotmg/application/impl/ProductionSetup.as&#10;equip&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.dat&#10;ktesting&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/assets/EmbeddedData_KTestingCXML.dat&#10;options&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/ui/options/Options.as&#10;parameters&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/parameters/Parameters.as&#10;mapuserinput&#9;null&#9;null&#10;filter&#9;null&#9;null&#10;equi&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.dat&#10;objectlib&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/ObjectLibrary.as&#10;equipmenttool&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/ui/tooltip/EquipmentToolTip.as&#10;tierutil&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/util/TierUtil.as&#10;tooltip&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/ui/tooltip/TooltipHelper.as&#10;menuoptionbar&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/ui/view/components/MenuOptionsBar.as&#10;titleview&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/ui/view/TitleView.as&#10;button&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/ui/view/ButtonFactory.as&#10;hudv&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/ui/view/HUDView.as&#10;parameter&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/parameters/Parameters.as&#10;age&#9;null&#9;null&#10;uiconfig&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/ui/UIConfig.as&#10;key&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/text/model/TextKey.as&#10;register&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/account/core/view/RegisterPromptDialog.as&#10;paramet&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/parameters/Parameters.as&#10;statmeter&#9;null&#9;null&#10;productionset&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/application/impl/ProductionSetup.as&#10;hudview&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/ui/view/HUDView.as&#10;itemgridmed&#9;null&#9;null&#10;player.&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/Player.as&#10;production&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/application/impl/ProductionSetup.as&#10;gameobjec&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/GameObject.as&#10;chatlistf&#9;null&#9;null&#10;buttonf&#9;null&#9;null&#10;texturere&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/util/TextureRedrawer.as&#10;objectlibra&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/ObjectLibrary.as&#10;container&#9;null&#9;null&#10;uiutil&#9;null&#9;null&#10;option&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/ui/options/Options.as&#10;minimapimp&#9;null&#9;null&#10;accountloadings&#9;null&#9;null&#10;potionslotvie&#9;null&#9;null&#10;potion&#9;null&#9;null&#10;gameobj&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/GameObject.as&#10;statdat&#9;null&#9;null&#10;gameserver&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/messaging/impl/GameServerConnectionConcrete.as&#10;gameobje&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/GameObject.as&#10;player.as&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/com/company/assembleegameclient/objects/Player.as&#10;glowre&#9;null&#9;null&#10;produc&#9;FILE&#9;file://C:/Users/Jason Dong/Documents/project-t/Tidan Client - Copy/src/kabam/rotmg/application/impl/ProductionSetup.as&#10;groun&#9;FILE&#9;file://C:/Users/raphe/OneDrive/Desktop/Tidan V4 Source/Tidan Client - Copy/src/kabam/rotmg/assets/EmbeddedData_GroundCXML.dat&#10;Tooltip&#9;FILE&#9;file://C:/Users/raphe/OneDrive/Desktop/Tidan V4 Source/Tidan Client - Copy/src/com/company/assembleegameclient/ui/tooltip/EquipmentToolTip.as" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../_v6/LoE-Realm-NC-master/client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="kabam.rotmg.ui.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jason Dong\Documents\project-t\Tidan Client - Copy\src\kabam\rotmg\game\view" />
+      <recent name="C:\Users\Jason Dong\Documents\project-t\Tidan Client - Copy\src\kabam\rotmg\ui\view" />
+      <recent name="C:\Users\Jason Dong\Documents\project-t\Tidan Client - Copy\src\com\company\rotmg\graphics" />
+      <recent name="C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Client\src\kabam\rotmg\ui\defaults" />
+      <recent name="C:\Users\raphe\OneDrive\Desktop\Tidan Source\tidanv3-sourcefiles\Tidan Client\src\kabam\rotmg\ui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flash App.Unnamed (1)">
+    <configuration name="Unnamed (1)" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="WebMain" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="WebMain" />
+      <option name="overriddenMainClass" value="WebMain" />
+      <option name="overriddenOutputFileName" value="Tidan'sClient.swf" />
+      <option name="overrideMainClass" value="true" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration name="Unnamed" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="WebMain" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="WebMain" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration name="WebMain" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="WebMain" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="flex_sdk_4.9.1" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="WebMain" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Flash App.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Flash App.WebMain" />
+      <item index="2" class="java.lang.String" itemvalue="Flash App.Unnamed (1)" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f796fa-477f-46c8-8931-c5455fc51c2b" name="Default" comment="" />
+      <created>1534573093502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534573093502</updated>
+      <workItem from="1534573107108" duration="1037000" />
+      <workItem from="1534612548735" duration="599000" />
+      <workItem from="1534614531739" duration="599000" />
+      <workItem from="1534643726150" duration="285000" />
+      <workItem from="1534644040670" duration="19000" />
+      <workItem from="1534644087526" duration="676000" />
+      <workItem from="1534664154805" duration="438000" />
+      <workItem from="1534664607489" duration="12000" />
+      <workItem from="1534664676198" duration="724000" />
+      <workItem from="1534889032992" duration="866000" />
+      <workItem from="1534904680296" duration="1584000" />
+      <workItem from="1534906913244" duration="617000" />
+      <workItem from="1535157363186" duration="908000" />
+      <workItem from="1535364539273" duration="85000" />
+      <workItem from="1535583794707" duration="1079000" />
+      <workItem from="1535585736023" duration="654000" />
+      <workItem from="1535593612218" duration="595000" />
+      <workItem from="1535595328109" duration="931000" />
+      <workItem from="1535823032368" duration="448000" />
+      <workItem from="1535823589925" duration="209000" />
+      <workItem from="1535827035506" duration="181000" />
+      <workItem from="1535849201642" duration="1008000" />
+      <workItem from="1535851296955" duration="807000" />
+      <workItem from="1535853869551" duration="1275000" />
+      <workItem from="1535855885868" duration="1847000" />
+      <workItem from="1535857772482" duration="598000" />
+      <workItem from="1535860065937" duration="1318000" />
+      <workItem from="1535862684245" duration="1034000" />
+      <workItem from="1535919330162" duration="688000" />
+      <workItem from="1535958072682" duration="1397000" />
+      <workItem from="1535960025747" duration="667000" />
+      <workItem from="1535999546962" duration="1268000" />
+      <workItem from="1536003852791" duration="1843000" />
+      <workItem from="1536005879067" duration="986000" />
+      <workItem from="1536036492188" duration="1491000" />
+      <workItem from="1536038219134" duration="1774000" />
+      <workItem from="1536040160726" duration="1678000" />
+      <workItem from="1536041887019" duration="1771000" />
+      <workItem from="1536043803954" duration="1835000" />
+      <workItem from="1536098299423" duration="1539000" />
+      <workItem from="1536100404039" duration="1598000" />
+      <workItem from="1536107295120" duration="1490000" />
+      <workItem from="1536111103077" duration="709000" />
+      <workItem from="1536116222861" duration="1682000" />
+      <workItem from="1536120265003" duration="1919000" />
+      <workItem from="1536128150070" duration="1803000" />
+      <workItem from="1536154613486" duration="612000" />
+      <workItem from="1536194426058" duration="931000" />
+      <workItem from="1536386202305" duration="606000" />
+      <workItem from="1536445248002" duration="608000" />
+      <workItem from="1536450155427" duration="598000" />
+      <workItem from="1536454914153" duration="1481000" />
+      <workItem from="1536459731587" duration="724000" />
+      <workItem from="1536462213329" duration="1420000" />
+      <workItem from="1536465768686" duration="1899000" />
+      <workItem from="1536468595956" duration="1445000" />
+      <workItem from="1536471360443" duration="992000" />
+      <workItem from="1536473661200" duration="1910000" />
+      <workItem from="1536789194606" duration="614000" />
+      <workItem from="1536798683877" duration="724000" />
+      <workItem from="1536800790245" duration="1586000" />
+      <workItem from="1536804215464" duration="640000" />
+      <workItem from="1536817795106" duration="770000" />
+      <workItem from="1536886158617" duration="936000" />
+      <workItem from="1536888316402" duration="1433000" />
+      <workItem from="1537022088277" duration="1274000" />
+      <workItem from="1537306512390" duration="1693000" />
+      <workItem from="1537308344152" duration="2001000" />
+      <workItem from="1537310388826" duration="644000" />
+      <workItem from="1537312248905" duration="1506000" />
+      <workItem from="1537315111563" duration="892000" />
+      <workItem from="1537328083541" duration="692000" />
+      <workItem from="1537393224994" duration="1287000" />
+      <workItem from="1537396935460" duration="588000" />
+      <workItem from="1537399484855" duration="1572000" />
+      <workItem from="1537404464192" duration="551000" />
+      <workItem from="1537502895209" duration="1153000" />
+      <workItem from="1537589314558" duration="894000" />
+      <workItem from="1537633953801" duration="519000" />
+      <workItem from="1537651983665" duration="2023000" />
+      <workItem from="1537654873791" duration="748000" />
+      <workItem from="1537656793657" duration="1377000" />
+      <workItem from="1537910074541" duration="772000" />
+      <workItem from="1537912087102" duration="1429000" />
+      <workItem from="1537926934551" duration="598000" />
+      <workItem from="1537931122416" duration="1157000" />
+      <workItem from="1537933399967" duration="1825000" />
+      <workItem from="1538096732986" duration="1420000" />
+      <workItem from="1538248724397" duration="2139000" />
+      <workItem from="1538252230212" duration="596000" />
+      <workItem from="1538255680392" duration="2079000" />
+      <workItem from="1538259192953" duration="624000" />
+      <workItem from="1538457436459" duration="1039000" />
+      <workItem from="1538460951965" duration="703000" />
+      <workItem from="1538855891385" duration="1408000" />
+      <workItem from="1538858972843" duration="801000" />
+      <workItem from="1538898048682" duration="1553000" />
+      <workItem from="1538900138163" duration="1875000" />
+      <workItem from="1538904143000" duration="417000" />
+      <workItem from="1538928277486" duration="1415000" />
+      <workItem from="1538964194054" duration="597000" />
+      <workItem from="1539025401679" duration="1555000" />
+      <workItem from="1539027393469" duration="15839000" />
+      <workItem from="1539131273011" duration="10155000" />
+      <workItem from="1539391880233" duration="3369000" />
+      <workItem from="1539444052668" duration="8858000" />
+      <workItem from="1539550618522" duration="3235000" />
+      <workItem from="1539637591968" duration="3824000" />
+      <workItem from="1539649917328" duration="311000" />
+      <workItem from="1539720212867" duration="9377000" />
+      <workItem from="1539815317497" duration="1911000" />
+      <workItem from="1539907319198" duration="12352000" />
+      <workItem from="1539932740524" duration="951000" />
+      <workItem from="1539966120834" duration="936000" />
+      <workItem from="1539971987255" duration="135000" />
+      <workItem from="1540057441493" duration="18000" />
+      <workItem from="1540131539694" duration="1490000" />
+      <workItem from="1540140959916" duration="446000" />
+      <workItem from="1540181003630" duration="4477000" />
+      <workItem from="1540248751976" duration="581000" />
+      <workItem from="1540330073507" duration="7043000" />
+      <workItem from="1540340965144" duration="482000" />
+      <workItem from="1540349681108" duration="6354000" />
+      <workItem from="1540416277100" duration="2670000" />
+      <workItem from="1540441113139" duration="12337000" />
+      <workItem from="1540514257825" duration="631000" />
+      <workItem from="1540865633576" duration="7909000" />
+      <workItem from="1540965080444" duration="4885000" />
+      <workItem from="1541107707161" duration="2655000" />
+      <workItem from="1541117717343" duration="4544000" />
+      <workItem from="1541486793026" duration="819000" />
+      <workItem from="1541541697487" duration="3075000" />
+      <workItem from="1541631632029" duration="6959000" />
+      <workItem from="1541650526545" duration="4645000" />
+      <workItem from="1541720366358" duration="598000" />
+      <workItem from="1541729512586" duration="57000" />
+      <workItem from="1541741216785" duration="4523000" />
+      <workItem from="1541810505911" duration="1719000" />
+      <workItem from="1541834197159" duration="1526000" />
+      <workItem from="1541877602983" duration="9489000" />
+      <workItem from="1541965229290" duration="586000" />
+      <workItem from="1541998463185" duration="3080000" />
+      <workItem from="1542013895945" duration="12753000" />
+      <workItem from="1542234760866" duration="2472000" />
+      <workItem from="1542319622879" duration="680000" />
+      <workItem from="1542771922702" duration="597000" />
+      <workItem from="1542829510986" duration="3466000" />
+      <workItem from="1542854736905" duration="1087000" />
+      <workItem from="1543124884112" duration="4211000" />
+      <workItem from="1543175553680" duration="8290000" />
+      <workItem from="1543255677786" duration="2360000" />
+      <workItem from="1543722224451" duration="240000" />
+      <workItem from="1544749131202" duration="4840000" />
+      <workItem from="1544824546958" duration="597000" />
+      <workItem from="1544832982604" duration="598000" />
+      <workItem from="1544847883758" duration="1669000" />
+      <workItem from="1545245241102" duration="597000" />
+      <workItem from="1545730327459" duration="5641000" />
+      <workItem from="1545865070266" duration="2356000" />
+      <workItem from="1545897608348" duration="5059000" />
+      <workItem from="1545905836548" duration="11277000" />
+      <workItem from="1546120586038" duration="5338000" />
+      <workItem from="1546491773999" duration="597000" />
+      <workItem from="1546738553189" duration="3353000" />
+      <workItem from="1546801296590" duration="21000" />
+      <workItem from="1546801571125" duration="1587000" />
+      <workItem from="1546893087764" duration="1172000" />
+      <workItem from="1547000944635" duration="3502000" />
+      <workItem from="1547076665224" duration="853000" />
+      <workItem from="1547078329937" duration="612000" />
+      <workItem from="1550975216527" duration="667000" />
+      <workItem from="1550977367829" duration="2500000" />
+      <workItem from="1553369769057" duration="2578000" />
+      <workItem from="1554687499603" duration="416000" />
+      <workItem from="1557965782787" duration="8098000" />
+      <workItem from="1558053034997" duration="4306000" />
+      <workItem from="1558126132768" duration="4288000" />
+      <workItem from="1558220142828" duration="5801000" />
+      <workItem from="1558292972579" duration="8750000" />
+      <workItem from="1558393670101" duration="7636000" />
+      <workItem from="1558472574403" duration="1428000" />
+      <workItem from="1558548833564" duration="1692000" />
+      <workItem from="1558632808363" duration="598000" />
+      <workItem from="1558821927133" duration="1187000" />
+      <workItem from="1558903027916" duration="3799000" />
+      <workItem from="1559012350781" duration="4643000" />
+      <workItem from="1559245330314" duration="5695000" />
+      <workItem from="1559615304216" duration="12230000" />
+      <workItem from="1559861273964" duration="2031000" />
+      <workItem from="1559949372042" duration="4045000" />
+      <workItem from="1560057170210" duration="2157000" />
+      <workItem from="1560092994194" duration="13534000" />
+      <workItem from="1560355741314" duration="1497000" />
+      <workItem from="1560792221405" duration="6462000" />
+      <workItem from="1560813631715" duration="1473000" />
+      <workItem from="1560889062107" duration="5081000" />
+      <workItem from="1560959011195" duration="1994000" />
+      <workItem from="1560991720340" duration="7399000" />
+      <workItem from="1561132333721" duration="9084000" />
+      <workItem from="1561170355297" duration="3947000" />
+      <workItem from="1561316145126" duration="189000" />
+      <workItem from="1561323606351" duration="1006000" />
+      <workItem from="1561342429297" duration="9650000" />
+      <workItem from="1561407750899" duration="424000" />
+      <workItem from="1561940106545" duration="1649000" />
+      <workItem from="1561950449140" duration="16199000" />
+      <workItem from="1562068358648" duration="596000" />
+      <workItem from="1562831361402" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="525934000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919955" sideWeight="0.5043243" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33370912" sideWeight="0.47972974" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.030439684" sideWeight="0.45783785" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1772973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018918918" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.49567568" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="7.320644E-4" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694477" sideWeight="0.46378377" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0031055901" sideWeight="0.4827027" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4751553" sideWeight="0.5362162" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="7.320644E-4" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018918918" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954337" sideWeight="0.49785867" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763976" sideWeight="0.46378377" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.030439684" sideWeight="0.45783785" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33373064" sideWeight="0.47972974" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0031055901" sideWeight="0.4827027" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/minimap/view/MiniMapImp.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="313" column="42" lean-forward="true" selection-start-line="313" selection-start-column="42" selection-end-line="313" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/chat/view/ChatListItemFactory.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="217" column="5" lean-forward="true" selection-start-line="217" selection-start-column="5" selection-end-line="217" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/objects/GameObject.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20281">
+          <caret line="1250" column="21" lean-forward="false" selection-start-line="1250" selection-start-column="21" selection-end-line="1250" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/game/view/CooldownTimerMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/panels/mediators/ItemGridMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="129" column="15" lean-forward="false" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/game/view/CooldownTimer.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/StatMetersView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/StatusBar.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="104" column="20" lean-forward="false" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/objects/Player.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="97" column="12" lean-forward="false" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/StatMetersMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/core/view/RegisterPromptDialog.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/AgeVerificationDialog.as" />
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/core/commands/VerifyAgeCommand.as" />
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/core/signals/VerifyAgeSignal.as" />
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/UIConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="79" column="49" lean-forward="false" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/core/services/VerifyAgeTask.as" />
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/AccountConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/commands/EnterGameCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/core/view/RegisterWebAccountDialog.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="52" selection-end-line="84" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/transfer/view/TransferAccountView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="71" column="6" lean-forward="false" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/dialogs/TOSPopup.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="96" column="81" lean-forward="false" selection-start-line="96" selection-start-column="81" selection-end-line="96" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/account/web/view/WebRegisterDialog.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/TitleView_TitleScreenGraphic.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/components/MenuOptionsBar.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="67" column="10" lean-forward="false" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/TitleView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="167" column="21" lean-forward="false" selection-start-line="167" selection-start-column="21" selection-end-line="167" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/ButtonFactory.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/ui/view/HUDView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="58" column="45" lean-forward="false" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/util/TierUtil.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/tooltip/TooltipHelper.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/options/Options.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10425">
+          <caret line="451" column="115" lean-forward="false" selection-start-line="451" selection-start-column="115" selection-end-line="451" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/util/FilterUtil.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/parameters/Parameters.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4900">
+          <caret line="204" column="50" lean-forward="false" selection-start-line="204" selection-start-column="50" selection-end-line="204" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_KTestingCXML.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_KTestingCXML.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/game/MapUserInput.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10650">
+          <caret line="470" column="50" lean-forward="false" selection-start-line="470" selection-start-column="50" selection-end-line="470" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedAssets_chars8x8rEncountersEmbed_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedAssets_32x32imgEmbed_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedAssets_newGateEmbed_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedAssets.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/util/AssetLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="109" column="76" lean-forward="false" selection-start-line="109" selection-start-column="76" selection-end-line="109" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/util/AnimatedChar.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/util/AnimatedChars.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/application/impl/ProductionSetup.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/objects/ObjectLibrary.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4025">
+          <caret line="177" column="24" lean-forward="false" selection-start-line="177" selection-start-column="24" selection-end-line="177" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/messaging/impl/GameServerConnectionConcrete.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44600">
+          <caret line="1996" column="73" lean-forward="false" selection-start-line="1996" selection-start-column="73" selection-end-line="1996" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/friends/service/FriendDataRequestTask.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/text/model/TextKey.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10800">
+          <caret line="432" column="86" lean-forward="false" selection-start-line="432" selection-start-column="86" selection-end-line="432" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/tooltip/EquipmentToolTip.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3625">
+          <caret line="165" column="37" lean-forward="false" selection-start-line="165" selection-start-column="37" selection-end-line="165" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_EquipCXML.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189200">
+          <caret line="7568" column="8" lean-forward="false" selection-start-line="7568" selection-start-column="7" selection-end-line="7568" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kabam/rotmg/assets/EmbeddedData_LairOfShaitanCXML.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="522" column="37" lean-forward="false" selection-start-line="522" selection-start-column="29" selection-end-line="522" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Flex SDK 4.9.1 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WebMain|WebMain</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
